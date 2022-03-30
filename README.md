@@ -1,24 +1,19 @@
-# 深圳教师秋招信息
+# 教师招聘信息
 
-招聘公告网站：
+- 招聘公告网站：
+  - [中公教育深圳](http://shenzhen.offcn.com/html/jiaoshi/zhaokaoxinxi/)            
+  - [中公教育鄂尔多斯](http://eeds.offcn.com/html/jiaoshi/zhaokaoxinxi/)           
+  - [中公教育厦门](http://xiamen.offcn.com/html/jiaoshi/zhaokaoxinxi/)
+  - [全国教师招聘网](http://www.jrzhufu.com/)
+  - [GitHub陈同学深圳教师资料](https://github.com/KyleAndKelly/coder2teacher)
 
-[中公教育深圳](http://shenzhen.offcn.com/html/jiaoshi/zhaokaoxinxi/)            [中公教育鄂尔多斯](http://eeds.offcn.com/html/jiaoshi/zhaokaoxinxi/)            [中公教育厦门](http://xiamen.offcn.com/html/jiaoshi/zhaokaoxinxi/)
-
-[鄂尔多斯回应年薪60万招中小学教师 2022鄂尔多斯高薪教师招聘汇总](http://eeds.offcn.com/html/2021/11/43833.html)
-
-[全国教师招聘网](http://www.jrzhufu.com/)
-
-[GitHub深圳教师资料](https://github.com/KyleAndKelly/coder2teacher)
-
- 
+## 深圳
 
 [深圳各区2021年秋招](http://shenzhen.offcn.com/html/2021/09/78337.html)：[宝安](http://shenzhen.offcn.com/html/2021/09/78871.html)（物理）、[龙华](http://shenzhen.offcn.com/html/2021/09/78609.html)（物理）、[光明](http://shenzhen.offcn.com/html/2021/09/78727.html)（无）、[南山](https://www.szns.edu.cn/tzgg/202110/t20211021_124612.html)（物理 数学）、[坪山](http://shenzhen.offcn.com/html/2021/10/78873.html)（物理）、[龙岗](http://www.lg.gov.cn/bmzz/jyj/xxgk/rsxx/content/post_9239171.html)（[预报名](http://shenzhen.offcn.com/html/2021/09/78867.html)、[宣讲](https://active.clewm.net/F9lRoe?qrurl=http://c3.clewm.net/F9lRoe&gtype=1&key=39bcc163c94a87733338359b06246101f00769b402)）、[福田](http://www.szft.gov.cn/xxgk/ztbd/ftqzkzl/content/post_9250368.html)、盐田、[罗湖](http://www.szlh.gov.cn/lhjyjdds/gkmlpt/content/9/9239/mpost_9239531.html#12152)（物理）、大鹏
 
 2021秋招市属：[深圳科学高中](http://www.szkegao.net/xydt_show.aspx?id=11371)（数学 物理 ）、[深外](http://shenzhen.offcn.com/html/2021/09/78761.html)（数学、物理）、[广东实验中学深圳学校](http://shenzhen.offcn.com/html/2021/10/79055.html)（省实，龙岗区）、[深圳技术大学附属中学](https://sztuhs.sztu.edu.cn/info/1017/1583.htm)（坪山）
 
 高中园：[深圳高级中学高中园](https://www.cn-school.com/StaticPage/Recruitment/ZhCn/4623077265317385215.html)（龙岗区）、[深圳实验学校高中园](http://www.szsy.cn/category/article1/56f62ff179e64060b81a63b1e7e65183.shtm)（坪山区 [第二批](http://www.szsy.cn/category/article1/fba69977fe16435e86f8175a644a25b7.shtm)）、[深圳外国语学校高中园](http://shenzhen.offcn.com/html/2021/10/79538.html)（光明区，[官网通知ie打开](http://www.sfls.net.cn/article/2885601226401021952.html)）、深汕高中园
-
- 
 
 龙岗区的高中：[广东实验中学深圳学校](https://www.hteacher.net/jiaoshi/20210726/290371_3.html)（省实 [公众号预报名](http://shenzhen.offcn.com/html/2021/10/79055.html) 招的人少 可尝试）、深圳科学高中龙岗分校（数学）
 
@@ -28,9 +23,24 @@
 
 大鹏新区：红岭教育集团（大鹏校区 在建）、市第二十三高级中学项目（在建）23年建成
 
-内蒙古鄂尔多斯市：[鄂尔多斯市第一中学伊金霍洛校区2022年教师招聘公告](https://www.eedsyz.cn/contents/5/1538.html)
+## 其他
 
-## 查询网站
+- 鄂尔多斯市
+  - [鄂尔多斯回应年薪60万招中小学教师 2022鄂尔多斯高薪教师招聘汇总](http://eeds.offcn.com/html/2021/11/43833.html)
+  - [鄂尔多斯市第一中学伊金霍洛校区2022年教师招聘公告](https://www.eedsyz.cn/contents/5/1538.html)
+  - [【头条】鄂尔多斯市准格尔旗2022年引进优质教育人才、2021年中小学幼儿园教师招聘（储备）补充报名公告 (qq.com)](https://mp.weixin.qq.com/s/rtgttEE6JHkd4DR7VYTBmg)
+  - [头条丨我旗出台《准格尔旗引进优质教育人才实施办法》 (qq.com)](https://mp.weixin.qq.com/s/CJfwEIryAsbZz3R6SDIPBQ)
+- 黄冈
+  - [黄冈大光华高级中学教师招聘启事（校招专用） (qq.com)](https://mp.weixin.qq.com/s/T8YGw-zNyv6wC-ycRaYYzw)
+- 佛山
+  - [有编制+年收入45万+，11月26日北滘中学虚位以待，“职”等你来！ (qq.com)](https://mp.weixin.qq.com/s/L19M3UeiJdzETDZKq6orLA)
+
+- 厦门
+  - [招聘公告 | 厦门市翔安第一中学招聘编内教师 (qq.com)](https://mp.weixin.qq.com/s/10Xup8UdTKRjhrvl4NW-yg)
+
+
+
+# 查询网站
 
 **查找市属学校or区属学校**：[www.sz.gov.cn/school/yt/ytqzx/](http://www.sz.gov.cn/school/yt/ytqzx/)
 
@@ -52,9 +62,9 @@
 
 深圳教师招聘校招中的区招与单招：https://zhuanlan.zhihu.com/p/266852649
 
-[报考科高指南](https://www.meipian6.cn/3l0lomrl?share_depth=2&user_id=ohbsluIKl0UqE18s2DLOZ6eylb5s&sharer_id=ojq1tt6DYK7brZI49lyNwAAa3NXY&first_share_to=&s_uid=61291330&wx_scene=group_singlemessage&um_rtc=18a178feeb129a77e477c2062d4e5da4&first_share_uid=270512443&share_user_mpuuid=5577c98648efb3faff9f9670877da074&v=6.8.1&share_source=singlemessage&um_tc=1b01354ac5bfa687630db2a61152eca0)
+[2021年报考科高指南 (meipian6.cn)](https://www.meipian6.cn/3l0lomrl?share_depth=2&user_id=ohbsluIKl0UqE18s2DLOZ6eylb5s&sharer_id=ojq1tt6DYK7brZI49lyNwAAa3NXY&first_share_to=&s_uid=61291330&wx_scene=group_singlemessage&um_rtc=18a178feeb129a77e477c2062d4e5da4&first_share_uid=270512443&share_user_mpuuid=5577c98648efb3faff9f9670877da074&v=6.8.1&share_source=singlemessage&um_tc=1b01354ac5bfa687630db2a61152eca0)
 
-## 各区和学校信息
+# 深圳各区和学校信息
 
 深圳四大：深圳中学，深圳外国语学校，深圳实验学校，深圳高级中学。
 
@@ -66,7 +76,9 @@
 
 新建高中：https://new.qq.com/omn/20210818/20210818A0DB8300.html
 
-## 各类地图
+# 各类地图
+
+## 广东
 
 ![img](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202203301030362.jpg)
 
@@ -76,11 +88,13 @@
 
 ![img](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202203301030366.jpg)
 
+## 鄂尔多斯市
+
 ![img](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202203301030367.gif)
 
 ![img](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202203301030368.gif)
 
-## 校招知乎博主
+# 校招知乎博主
 
 [林中有一只小猫猫](https://www.zhihu.com/people/xu-ke-70-95/posts)
 
